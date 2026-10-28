@@ -1,18 +1,17 @@
-# Olá, eu sou o Lucca 👋
+# Lucca Machado
 
-Desenvolvedor **TypeScript** e **Python** no Brasil, focado em automação e ferramentas de verificação. Gosto de construir sistemas pequenos, confiáveis e fáceis de auditar.
+Desenvolvedor TypeScript e Python no Brasil. Construo automações e ferramentas de verificação: sistemas pequenos, reproduzíveis e fáceis de auditar.
 
 ## No que trabalho agora
 
-- Automação de fluxos e tarefas repetitivas
+- Automação de builds e verificações que rodam isoladas, sem rede
 - Roteamento e integração entre serviços
-- Ferramentas para verificar e validar código e configurações
+- Checagens de integridade com hashes fixados e recibos de aceitação
 
 ## Stack
 
 - **Linguagens:** TypeScript, Python
 - **Áreas:** automação, integrações, verificação e testes
-- **Ferramentas:** Git, GitHub Actions, Node.js
 
 ## Projetos
 
