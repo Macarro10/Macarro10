@@ -15,4 +15,8 @@ Desenvolvedor TypeScript e Python no Brasil. Construo automações e ferramentas
 
 ## Projetos
 
-Em breve.
+Em breve. Os repositórios públicos ficam em [github.com/Macarro10?tab=repositories](https://github.com/Macarro10?tab=repositories).
+
+## Contato
+
+Pelo GitHub: [@Macarro10](https://github.com/Macarro10).
