@@ -1,4 +1,4 @@
-# Lucca Machado
+
 
 Desenvolvedor TypeScript e Python no Brasil. Construo automações e ferramentas de verificação: sistemas pequenos, reproduzíveis e fáceis de auditar.
 
