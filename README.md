@@ -1,5 +1,3 @@
-
-
 Desenvolvedor TypeScript e Python no Brasil. Construo automações e ferramentas de verificação: sistemas pequenos, reproduzíveis e fáceis de auditar.
 
 ## No que trabalho agora
@@ -15,12 +13,13 @@ Desenvolvedor TypeScript e Python no Brasil. Construo automações e ferramentas
 
 ## Projetos
 
-Em breve. Os repositórios públicos ficam em [github.com/Macarro10?tab=repositories](https://github.com/Macarro10?tab=repositories).
+Por enquanto o único repositório público é este perfil. O trabalho de verificação e automação fica em repositórios privados. Os públicos estão em [github.com/Macarro10?tab=repositories](https://github.com/Macarro10?tab=repositories).
 
 ## Como colaborar
 
-Quando houver repositórios públicos, dúvidas e sugestões são bem-vindas pelas issues de cada projeto.
+Quando houver repositórios públicos de código, dúvidas e sugestões são bem-vindas pelas issues de cada projeto.
 
 ## Contato
 
-Pelo GitHub: [@Macarro10](https://github.com/Macarro10).
+- GitHub: [@Macarro10](https://github.com/Macarro10)
+- X: [@jointaccountsol](https://x.com/jointaccountsol)
