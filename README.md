@@ -12,6 +12,7 @@ Desenvolvedor TypeScript e Python no Brasil. Construo automações e ferramentas
 
 - **Linguagens:** TypeScript, Python
 - **Áreas:** automação, integrações, verificação e testes
+- **Ferramentas:** GitHub Actions, Node
 
 ## Projetos
 
