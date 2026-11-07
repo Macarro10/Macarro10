@@ -13,7 +13,7 @@ Desenvolvedor TypeScript e Python no Brasil. Construo automações e ferramentas
 
 ## Projetos
 
-Por enquanto o único repositório público é este perfil. O trabalho de verificação e automação fica em repositórios privados. Os públicos estão em [github.com/Macarro10?tab=repositories](https://github.com/Macarro10?tab=repositories).
+Por enquanto o único repositório público é este perfil. O trabalho de verificação e automação fica em repositórios privados. Os públicos estão em [repositórios públicos de Macarro10](https://github.com/Macarro10?tab=repositories).
 
 ## Como colaborar
 
@@ -23,3 +23,4 @@ Quando houver repositórios públicos de código, dúvidas e sugestões são bem
 
 - GitHub: [@Macarro10](https://github.com/Macarro10)
 - X: [@jointaccountsol](https://x.com/jointaccountsol)
+- Site: [ilsleaders.com](https://www.ilsleaders.com)
