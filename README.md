@@ -19,13 +19,13 @@ Desenvolvedor TypeScript e Python no Brasil. Construo automações e ferramentas
 ## Projetos
 
 - **[Macarro10](https://github.com/Macarro10/Macarro10)** — README público deste perfil
-- **[.github](https://github.com/Macarro10/.github)** — arquivos padrão de saúde da comunidade (SECURITY, SUPPORT) para repos sem arquivo próprio
+- **[.github](https://github.com/Macarro10/.github)** — arquivos padrão de saúde da comunidade (SECURITY, SUPPORT, CONTRIBUTING e template de PR) para repos sem arquivo próprio
 - Verificação e automação (incluindo gate OmniRoute isolado) ficam em repositórios privados
 - Lista completa: [repositórios públicos de Macarro10](https://github.com/Macarro10?tab=repositories)
 
 ## Como colaborar
 
-Quando houver repositórios públicos de código, dúvidas e sugestões são bem-vindas pelas issues de cada projeto. Relatos de segurança: siga a [política de segurança](SECURITY.md) (sem issue pública com detalhes).
+Quando houver repositórios públicos de código, dúvidas e sugestões são bem-vindas pelas issues de cada projeto. Guia padrão de contribuição: [CONTRIBUTING.md](https://github.com/Macarro10/.github/blob/main/CONTRIBUTING.md). Relatos de segurança: siga a [política de segurança](SECURITY.md) (sem issue pública com detalhes).
 
 ## Contato
 
