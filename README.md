@@ -24,7 +24,7 @@ Desenvolvedor TypeScript e Python no Brasil. Construo automações e ferramentas
 
 ## Como colaborar
 
-Quando houver repositórios públicos de código, dúvidas e sugestões são bem-vindas pelas issues de cada projeto.
+Quando houver repositórios públicos de código, dúvidas e sugestões são bem-vindas pelas issues de cada projeto. Relatos de segurança: siga a [política de segurança](SECURITY.md) (sem issue pública com detalhes).
 
 ## Contato
 
