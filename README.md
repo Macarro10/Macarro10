@@ -16,7 +16,9 @@ Desenvolvedor TypeScript e Python no Brasil. Construo automações e ferramentas
 
 ## Projetos
 
-Por enquanto o único repositório público é este perfil. O trabalho de verificação e automação fica em repositórios privados. Os públicos estão em [repositórios públicos de Macarro10](https://github.com/Macarro10?tab=repositories).
+- **[Macarro10](https://github.com/Macarro10/Macarro10)** — README público deste perfil
+- Verificação e automação (incluindo gate OmniRoute isolado) ficam em repositórios privados
+- Lista completa: [repositórios públicos de Macarro10](https://github.com/Macarro10?tab=repositories)
 
 ## Como colaborar
 
